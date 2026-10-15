@@ -1,3 +1,17 @@
+/******************************************************************************
+//
+// Name: Aiden R. Dusek
+// Date: 10/14/2026
+// Class: 1470.04
+// Semester: Fall 2026
+// CSCI 1470 Instructor: DR. Reyes
+//
+// Program Description: This program allows the users to calculate the Body Mass Index (BMI) of
+//                      multiple patients based on their weight and height.
+//
+//
+*******************************************************************************/
+
 #include <iostream>
 #include <iomanip>
 #include <string>
